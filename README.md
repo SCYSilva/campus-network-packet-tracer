@@ -34,6 +34,6 @@ This project demonstrates practical skills in network design, VLAN configuration
 
 ---
 
-## 👨‍💻 Author
+## Author
 Chandupa Silva  
 Network Engineering Student (UCSC)
