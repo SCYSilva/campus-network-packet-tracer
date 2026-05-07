@@ -48,10 +48,10 @@ This project demonstrates a multi-subnet campus network designed using Cisco Pac
 ![DHCP Config](assets/dhcp-config.png)
 
 ### 🔷 DHCP Test Results
-![DHCP Test](assets/DHCP test.png)
+![DHCP Test](assets/dhcp-test.png)
 
 ### 🔷 Ping Test Results
-![Ping Test](assets/PING test.png)
+![Ping Test](assets/ping-test.png)
 
 ### 🔷 VLAN Configuration Test
 ![VLAN Test](assets/vlan-config-test.png)
