@@ -1,36 +1,70 @@
-# Campus Network Design using Cisco Packet Tracer
+#  Campus Network Design using Cisco Packet Tracer
 
 ## Project Overview
-This project demonstrates a multi-subnet campus network designed using Cisco Packet Tracer. It includes VLAN segmentation, inter-VLAN routing, and DHCP configuration to simulate a real enterprise network environment.
+This project demonstrates a multi-subnet campus network designed using Cisco Packet Tracer. It includes VLAN segmentation, inter-VLAN routing, and DHCP configuration to simulate a real-world enterprise network environment.
 
 ---
 
-## Key Features
+## Features
 - VLAN segmentation for Admin, Staff, and Students
 - Inter-VLAN routing using router-on-a-stick
-- DHCP configuration for automatic IP assignment
-- Network troubleshooting and testing using ping
+- DHCP for automatic IP assignment
+- Network testing and troubleshooting
+- Scalable enterprise network design
 
 ---
 
 ## Technologies Used
 - Cisco Packet Tracer
-- VLANs (IEEE 802.1Q)
+- VLAN (IEEE 802.1Q)
 - DHCP
-- Router-on-a-stick inter-VLAN routing
+- Router-on-a-stick
 - TCP/IP Networking
 
 ---
 
-## Files in this Repository
-- campus-network.pkt → Cisco Packet Tracer simulation file
-- project-report.pdf → Detailed project documentation (upload next)
-- topology.png → Network diagram screenshot (upload next)
+## Project Files
+- campus-network.pkt → Network simulation file
+- project-report.pdf → Full technical documentation
+- assets/ → Network diagrams and configuration screenshots
+
+---
+
+## Project Screenshots
+
+### 🔷 Network Topology
+![Topology](assets/Topology.png)
+
+### 🔷 VLAN Configuration
+![VLAN Config](assets/vlan-config.png)
+
+### 🔷 Switch Trunk Configuration
+![Switch Trunk](assets/Switch-trunk-config.png)
+
+### 🔷 Router Subinterface (VLAN Routing) Configuration
+![Router SubVLAN](assets/router-subvlan-config.png)
+
+### 🔷 DHCP Configuration
+![DHCP Config](assets/dhcp-config.png)
+
+### 🔷 DHCP Test Results
+![DHCP Test](assets/DHCP test.png)
+
+### 🔷 Ping Test Results
+![Ping Test](assets/PING test.png)
+
+### 🔷 VLAN Configuration Test
+![VLAN Test](assets/vlan-config-test.png)
 
 ---
 
 ## Learning Outcome
-This project demonstrates practical skills in network design, VLAN configuration, IP addressing, and troubleshooting in a simulated enterprise environment.
+This project demonstrates practical knowledge in:
+- Network design and segmentation
+- VLAN configuration
+- Inter-VLAN routing
+- DHCP configuration
+- Network troubleshooting
 
 ---
 
